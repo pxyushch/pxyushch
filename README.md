@@ -1,4 +1,4 @@
-[![MasterHead](https://photos.app.goo.gl/HmKgvnzfLz42Snv67)](https://www.google.com/photos)
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm Piyush Chauhan</h1>
 <h3 align="center">Learning & Exploring</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxyushch&show_icons=true&locale=en" alt="pxyushch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxyushch&" alt="pxyushch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxyushch&" alt="pxyushch" /></p[![An image of @pxyushch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pxyushch)](https://holopin.io/@pxyushch)
