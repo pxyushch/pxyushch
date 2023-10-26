@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **peeyushrajput321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_vpafn3we71e3zlQSfK33e3u97Mqi7hw/view?usp=drivesdk](https://drive.google.com/file/d/1_vpafn3we71e3zlQSfK33e3u97Mqi7hw/view?usp=drivesdk)
+- 📄 Know about my experiences [https://linktr.ee/piyushchauhan1](https://linktr.ee/piyushchauhan1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
