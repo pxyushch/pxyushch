@@ -94,7 +94,8 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
 | Domain | Repository / Project | Target Technologies | Failure Modes Caught | Verification Mechanism | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | **DevOps Benchmark** | [`devops-llm-benchmark`](https://github.com/pxyushch/devops-llm-benchmark) | Docker, K8s, Terraform, CI/CD | Insecure defaults, hallucinated CLI flags | Docker sandbox + Pytest | **Production** |
-| **Cloud CI/CD** | [`cloud-cicd-pipeline-webapp`](https://github.com/pxyushch) | GitHub Actions, Docker, GCP | Deployment drift, image build failures | GCP VM deployment + Healthcheck | **Production** |
+| **Cloud CI/CD** | [`cloud-cicd-gcp-pipeline`](https://github.com/pxyushch/cloud-cicd-gcp-pipeline) | GitHub Actions, Docker, GCP | Deployment drift, image build failures | GCP VM deployment + Healthcheck | **Production** |
+| **QA Automation** | [`playwright-qa-automation`](https://github.com/pxyushch/playwright-qa-automation) | Playwright, Python, Allure | Flaky test timeouts, selector drift | Parallel runner + Allure reports | **Production** |
 | **Explainable AI** | [`deprexai`](https://github.com/pxyushch/deprexai) | PyTorch, Hugging Face, SHAP, LIME | Model bias, uninterpretable predictions | LIME fidelity (0.92) + F1 metrics | **Research** |
 | **Test Automation** | [`Automation-Testing-tool`](https://github.com/pxyushch/Automation-Testing-tool) | Playwright, Python, AstraQ | Flaky test timeouts, selector drift | Parallel runner + Allure reports | **Active** |
 | **Full-Stack RBAC** | [`taskflow-rbac-app`](https://github.com/pxyushch/taskflow-rbac-app) | React, Express, Prisma, SQLite | Privilege escalation, route bypass | Automated RBAC integration tests | **Active** |
