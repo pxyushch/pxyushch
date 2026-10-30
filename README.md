@@ -1,179 +1,158 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Piyush%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=DevOps%20Engineer%20%E2%80%A2%20Frontier%20LLM%20Benchmark%20%26%20Eval%20Specialist&subfontSize=18&subfontColor=d8b4fe" width="100%" />
+  <!-- Dynamic Top Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,14,22&height=180&section=header&text=PIYUSH%20CHAUHAN&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=DevOps%20Engineer%20%7C%20Frontier%20LLM%20Evaluation%20Specialist%20%40%20Ethara.ai&descFontSize=18&descAlignY=68&descColor=e0e7ff" width="100%" />
 
-  [![Gmail](https://img.shields.io/badge/Gmail-peeyushrajput321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peeyushrajput321@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyush--chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-chauhan-8a02a0251)
-  [![GitHub](https://img.shields.io/badge/GitHub-pxyushch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxyushch)
-  [![Company](https://img.shields.io/badge/Company-Ethara.ai-7928CA?style=for-the-badge)]()
-  [![Status](https://img.shields.io/badge/Focus-Frontier_AI_Evaluations_&_Cloud_Sandboxing-00C853?style=for-the-badge)]()
+  <!-- Animated Live Terminal Typing SVG -->
+  <a href="https://github.com/pxyushch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%E2%9A%A1+Architecting+Deterministic+Sandboxes+for+Claude+3.5+%26+Codex;%F0%9F%90%B3+Building+Hardened+Docker+%26+Kubernetes+Eval+Harnesses;%F0%9F%A7%A0+Clinical+NLP+AI+Researcher+(DepreXAI+%E2%80%A2+94.2%25+Acc);%F0%9F%9B%A1%EF%B8%8F+Enforcing+Zero-Trust+RBAC+%26+Automated+CI%2FCD+Pipelines" alt="Typing Terminal" />
+  </a>
 
   <br />
 
-  <!-- 🏆 Verified Achievements Quick-Bar -->
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/Galaxy%20Brain-Bronze-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/YOLO-Unlocked-EF4444?style=for-the-badge&logo=gitpullrequest&logoColor=white" alt="YOLO" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/Pull%20Shark-Silver-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-Unlocked-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Quickdraw" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/Pair%20Extraordinaire-Bronze-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" /></a>
+  <!-- Interactive Contact Badges -->
+  <a href="mailto:peeyushrajput321@gmail.com"><img src="https://img.shields.io/badge/Email-peeyushrajput321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/piyush-chauhan-8a02a0251"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/pxyushch"><img src="https://img.shields.io/badge/GitHub-pxyushch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Affiliation-Ethara.ai-7928CA?style=for-the-badge" alt="Ethara.ai" />
+  <img src="https://img.shields.io/badge/Focus-Frontier_AI_Evaluations-00C853?style=for-the-badge" alt="Focus" />
 
   <br /><br />
 
-  ```text
-  $ whoami
-  > Piyush Chauhan — DevOps Engineer & LLM Benchmark Specialist @ Ethara.ai
-  > Specializing in Frontier LLM Benchmarking (Claude 3.5 Sonnet, Codex, GLM-4),
-  > Deterministic Sandboxed Environments, Cloud CI/CD Pipelines & Evaluation Rubrics
-  ```
+  <!-- 🏆 Verified Achievements Ribbon -->
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Bronze-8B5CF6?style=flat-square" alt="Galaxy Brain" /></a>
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🪂_YOLO-Unlocked-EF4444?style=flat-square" alt="YOLO" /></a>
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🦈_Pull_Shark-Silver_x2-10B981?style=flat-square" alt="Pull Shark" /></a>
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-F59E0B?style=flat-square" alt="Quickdraw" /></a>
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/👥_Pair_Extraordinaire-Bronze-06B6D4?style=flat-square" alt="Pair Extraordinaire" /></a>
 </div>
 
 ---
 
-### ⚡ Technical Execution Highlights
+### 🚀 Core Engineering Radar
+
+```
+                      [ FRONTIER MODEL EVALUATIONS ]
+                                    ▲
+                                    │
+               ┌────────────────────┴────────────────────┐
+               │                                         │
+   [ CONTAINER ISOLATION ]                     [ CLOUD AUTOMATION ]
+   • Docker cgroups (Strict 1GB RAM)           • GitHub Actions Matrix Sharding
+   • Non-root runtime isolation                • GCP Compute Engine & Cloud Run
+   • Deterministic OOM signal trap             • Automated healthcheck rollbacks
+               │                                         │
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ▼
+                      [ SYSTEMIC FAILURE TAXONOMY ]
+                        (Wildcards, RBAC Drift)
+```
+
+---
+
+## ⚡ Interactive Tech Stack & Capabilities
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Benchmark_Suites-DevOps_&_Cloud_IaC-4F46E5?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Eval_Rigor-100%25_Deterministic_Sandboxes-10B981?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Target_Models-Claude_•_Codex_•_GLM--4_•_DeepSeek-7928CA?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Cloud_Platform-Google_Cloud_GCP-EA4335?style=flat-square&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Research-DepreXAI_(94.2%25_Acc,_0.91_F1)-8B5CF6?style=flat-square&logo=pytorch" />
+  <p><strong>Primary Languages & Systems Engineering</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,java,js,ts,postgres,sqlite,git,github&theme=dark" alt="Languages and Database Skills" />
+  </a>
+
+  <br /><br />
+
+  <p><strong>DevOps, Cloud, Sandboxing & Testing</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp,githubactions,linux,postman&theme=dark" alt="Cloud and Infrastructure Skills" />
+  </a>
+
+  <br /><br />
+
+  <p><strong>AI, ML & Interpretability Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,huggingface,tensorflow,vscode,apple&theme=dark" alt="AI and Frameworks Skills" />
+  </a>
 </div>
 
 ---
 
-## 🔬 Core Focus & Engineering Specialization
+## 🔬 Benchmark Engineering & Real-World Specialization
 
-I engineer **reproducible evaluation harnesses, deterministic sandbox runners, and rubric-driven validation pipelines** to rigorously test frontier LLMs on enterprise cloud infrastructure tasks. At **Ethara.ai**, I design task suites that evaluate whether models can safely generate, debug, and operate real-world systems without hallucinating commands, omitting probes, or violating the principle of least privilege.
+At **Ethara.ai**, I design deterministic evaluation harnesses to rigorously test frontier LLMs on enterprise cloud infrastructure tasks. Rather than relying on simple string-matching, our benchmarks run in isolated Linux containers with multi-axis rubric verification:
 
-* 🎯 **DevOps LLM Benchmarking & Task Authoring:** Authoring complex real-world tasks across Docker, Kubernetes, Helm, Terraform, and CI/CD pipelines, equipped with reference solutions, test assertions, and multi-dimensional grading rubrics.
-* 🐳 **Deterministic Sandboxing & Resource Isolation:** Implementing cgroup-isolated, ephemeral Docker test containers with strict CPU/memory quotas and zero host pollution to evaluate untrusted AI-generated code.
-* 🚨 **Systemic AI Failure Taxonomy:** Detecting and cataloging critical AI failure modes—such as unpinned image tags, root privilege escalations, missing liveness/readiness probes, and network security misconfigurations.
+* 🎯 **Deterministic Benchmarking & Task Authoring:** Engineering reproducible task environments across Docker, Kubernetes, Helm, Terraform, and CI/CD with unit tests and golden solutions.
+* 🐳 **Hermetic Sandbox Execution:** Isolating model-generated scripts inside ephemeral Docker runners with restricted network egress, non-root execution, and strict memory cgroups.
+* 🚨 **Systemic AI Mistake Taxonomy:** Cataloging recurring model flaws—such as unpinned base image digests, excessive `*` permissions in Kubernetes roles, and hardcoded cloud secrets.
 * ☁️ **Cloud CI/CD & Infrastructure Automation:** Architecting production deployment workflows with GitHub Actions, Google Cloud Platform (Compute Engine, GCR, Cloud Storage), and automated health-check rollback gates.
-* 🧠 **Explainable AI Research (DepreXAI):** Co-authored clinical NLP research utilizing transformer ensembles (PyTorch, Hugging Face) paired with SHAP/LIME feature attribution (94.2% classification accuracy, 0.91 macro F1).
-* 🧪 **End-to-End Test Engineering:** Building scalable automated regression frameworks using Python and Playwright with parallel execution and detailed telemetry reports.
-
----
-
-## 🏗️ DevOps LLM Evaluation & Sandboxed Architecture
-
-```
-                 ┌────────────────────────────────────────────────────────┐
-                 │       DevOps Benchmark Task Specification              │
-                 │   (Problem statement, constraints & acceptance specs)  │
-                 └───────────────────────────┬────────────────────────────┘
-                                             │
-                                             ▼
-                 ┌────────────────────────────────────────────────────────┐
-                 │          Frontier LLM Under Evaluation                 │
-                 │      (Claude 3.5 Sonnet, OpenAI Codex, GLM-4)          │
-                 └───────────────────────────┬────────────────────────────┘
-                                             │ Candidate Manifests / IaC / Scripts
-                                             ▼
-     ┌────────────────────────────────────────────────────────────────────────────────┐
-     │                      Deterministic Sandboxed Execution                         │
-     │  ┌─────────────────────────┐ ┌───────────────────────┐ ┌────────────────────┐  │
-     │  │ Docker Ephemeral Runner │ │ Pytest Test Harnesses │ │ YAML/HCL Parsers   │  │
-     │  │ (cgroups, non-root, OOM)│ │ (Deterministic assert)│ │ (Static AST checks)│  │
-     │  └─────────────────────────┘ └───────────────────────┘ └────────────────────┘  │
-     └───────────────────────────────────────┬────────────────────────────────────────┘
-                                             │
-                                             ▼
-     ┌────────────────────────────────────────────────────────────────────────────────┐
-     │                         Rubric-Based Multi-Axis Scoring                        │
-     │   • Functional Correctness (40%)        • Security & Least-Privilege (30%)     │
-     │   • Production Best Practices (20%)     • Idempotency & Cleanliness (10%)      │
-     └───────────────────────────────────────┬────────────────────────────────────────┘
-                                             │
-                                             ▼
-                 ┌────────────────────────────────────────────────────────┐
-                 │        Failure Taxonomy & Telemetry Feedback           │
-                 │  (Root defaults, missing probes, syntax drift -> Odoo) │
-                 └────────────────────────────────────────────────────────┘
-```
+* 🧠 **Explainable AI Research (DepreXAI):** Co-authored clinical NLP research utilizing transformer ensembles (PyTorch, Hugging Face) paired with SHAP/LIME feature attribution (**94.2% accuracy**, **0.91 macro F1**).
 
 ---
 
 ## 📊 Evaluation Matrix & Benchmark Results
 
-*Representative benchmark results across common infrastructure generation tasks in our sandboxed test suites:*
+*Pass rates and deterministic failure profiles observed across frontier models in our sandboxed test suites:*
 
-| Task Category | Evaluated Models | Primary Rubric Criteria | Detected Failure Modes | Pass Rate (Deterministic) |
+| Benchmark Domain | Target Models | Core Verification Standard | Caught Failure Modes | Pass Rate |
 | :--- | :--- | :--- | :--- | :---: |
-| **Multi-Stage Dockerfiles** | Claude 3.5 Sonnet, Codex, GLM-4 | Non-root user, minimal base image, multi-stage build | Default root user, cache invalidation, bloated layers | **78.4%** |
-| **Kubernetes RBAC & NetworkPolicy** | Claude 3.5 Sonnet, GLM-4, DeepSeek | Namespace isolation, explicit verbs, no cluster-admin | Wildcard `*` verbs, missing egress boundaries | **64.2%** |
-| **Terraform GCP Infrastructure** | Claude 3.5 Sonnet, Codex | Resource naming conventions, IAM least privilege | Hardcoded secrets, unencrypted bucket configs | **71.8%** |
-| **Production Helm Charts** | Codex, GLM-4, DeepSeek | Values schema validation, probe health configurations | Missing readiness probes, template linting errors | **62.0%** |
-| **CI/CD Pipeline Security** | Claude 3.5 Sonnet, Codex | GitHub Actions token permissions, step timeouts | Unpinned third-party actions, excessive GITHUB_TOKEN | **81.5%** |
+| **Multi-Stage Dockerfiles** | Claude 3.5 Sonnet, Codex, GLM-4 | Non-root user, minimal base image, multi-stage build | Default root user, cache invalidation, bloated layers | `78.4%` |
+| **Kubernetes RBAC & NetPol** | Claude 3.5 Sonnet, GLM-4, DeepSeek | Namespace isolation, explicit verbs, no cluster-admin | Wildcard `*` verbs, missing egress boundaries | `64.2%` |
+| **Terraform GCP Infrastructure** | Claude 3.5 Sonnet, Codex | Resource naming conventions, IAM least privilege | Hardcoded secrets, unencrypted bucket configs | `71.8%` |
+| **Production Helm Charts** | Codex, GLM-4, DeepSeek | Values schema validation, probe health configurations | Missing readiness probes, template linting errors | `62.0%` |
+| **CI/CD Pipeline Security** | Claude 3.5 Sonnet, Codex | GitHub Actions token permissions, step timeouts | Unpinned third-party actions, excessive GITHUB_TOKEN | `81.5%` |
 
 ---
 
-## 📋 Benchmark Suites & Featured Repositories
-
-| Domain | Repository / Project | Target Technologies | Failure Modes Caught | Verification Mechanism | Status |
-| :--- | :--- | :--- | :--- | :--- | :---: |
-| **DevOps Benchmark** | [`devops-llm-benchmark`](https://github.com/pxyushch/devops-llm-benchmark) | Docker, K8s, Terraform, CI/CD | Insecure defaults, hallucinated CLI flags | Docker sandbox + Pytest | **Production** |
-| **Cloud CI/CD** | [`cloud-cicd-gcp-pipeline`](https://github.com/pxyushch/cloud-cicd-gcp-pipeline) | GitHub Actions, Docker, GCP | Deployment drift, image build failures | GCP VM deployment + Healthcheck | **Production** |
-| **QA Automation** | [`playwright-qa-automation`](https://github.com/pxyushch/playwright-qa-automation) | Playwright, Python, Allure | Flaky test timeouts, selector drift | Parallel runner + Allure reports | **Production** |
-| **Explainable AI** | [`deprexai`](https://github.com/pxyushch/deprexai) | PyTorch, Hugging Face, SHAP, LIME | Model bias, uninterpretable predictions | LIME fidelity (0.92) + F1 metrics | **Research** |
-| **Test Automation** | [`Automation-Testing-tool`](https://github.com/pxyushch/Automation-Testing-tool) | Playwright, Python, AstraQ | Flaky test timeouts, selector drift | Parallel runner + Allure reports | **Active** |
-| **Full-Stack RBAC** | [`taskflow-rbac-app`](https://github.com/pxyushch/taskflow-rbac-app) | React, Express, Prisma, SQLite | Privilege escalation, route bypass | Automated RBAC integration tests | **Active** |
-
----
-
-## 🛠️ Technical Stack & Tooling
+## 📋 Flagship Repositories & Engineering Suites
 
 <div align="center">
 
-| Domain | Technologies, Frameworks & Tooling |
-| :--- | :--- |
-| **AI Benchmarking & Evaluation** | `Prompt Engineering`, `Rubric Scoring`, `LLM Sandbox Evals`, `Claude 3.5`, `OpenAI Codex`, `GLM-4`, `DeepSeek-V3` |
-| **Containers & Orchestration** | `Docker`, `Docker Compose`, `Kubernetes (Kube-linter, Ingress, HPA, NetPol)`, `Helm` |
-| **Infrastructure as Code (IaC)** | `Terraform (GCP/AWS)`, `HCL Validation`, `OPA Gatekeeper`, `AST Parsing` |
-| **CI/CD & Cloud Infrastructure** | `GitHub Actions`, `Google Cloud Platform (Compute Engine, GCR, Cloud Storage)`, `Jenkins` |
-| **Testing & Verification** | `Pytest (Test Harnesses)`, `Playwright`, `AstraQ`, `Allure Reporting`, `Postman` |
-| **Machine Learning & NLP** | `PyTorch`, `Hugging Face (Transformers, Tokenizers)`, `SHAP`, `LIME`, `NumPy`, `Pandas` |
-| **Languages & Scripting** | `Python 3.10+`, `Bash / Shell`, `SQL`, `JavaScript / TypeScript`, `Java` |
+| Repository | Focus & Domain | Architecture & Stack | Verification Method |
+| :--- | :--- | :--- | :--- |
+| **[`devops-llm-benchmark`](https://github.com/pxyushch/devops-llm-benchmark)** | DevOps LLM Benchmark Suite | Docker • Kubernetes • Terraform • CI/CD | Docker Sandboxing + Pytest |
+| **[`cloud-cicd-gcp-pipeline`](https://github.com/pxyushch/cloud-cicd-gcp-pipeline)** | Cloud CI/CD Automation | GitHub Actions • Docker • GCP | GCP Deployment + Live Healthchecks |
+| **[`playwright-qa-automation`](https://github.com/pxyushch/playwright-qa-automation)** | Enterprise E2E Test Suite | Playwright • Python • Allure Reports | Parallel Matrix Shards (4x Speed) |
+| **[`deprexai`](https://github.com/pxyushch/deprexai)** | Explainable Clinical NLP | PyTorch • Transformers • SHAP • LIME | Cross-Validation (94.2% Acc, 0.91 F1) |
+| **[`Automation-Testing-tool`](https://github.com/pxyushch/Automation-Testing-tool)** | QA Test Automation Framework | Python • Playwright • AstraQ | Deterministic Selector Assertions |
+| **[`taskflow-rbac-app`](https://github.com/pxyushch/taskflow-rbac-app)** | Full-Stack Enterprise RBAC | React • Express • Prisma • SQLite | Automated Route Bypass & Audit Tests |
 
 </div>
 
 ---
 
-## 🏆 GitHub Official Achievements & Badges
+## 🏆 GitHub Official Milestone Achievements
 
 <div align="center">
-  <p>Verified profile milestones and developer badges earned across open-source and engineering repositories.</p>
+  <p><em>Verified milestones awarded for open-source contributions, technical discussions, and code reviews.</em></p>
 
   <a href="https://github.com/pxyushch?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" alt="Galaxy Brain" width="105px" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" alt="Galaxy Brain" width="95px" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="105px" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="95px" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" alt="Pull Shark Silver" width="105px" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" alt="Pull Shark Silver" width="95px" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw" width="105px" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw" width="95px" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-bronze.png" alt="Pair Extraordinaire" width="105px" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-bronze.png" alt="Pair Extraordinaire" width="95px" style="margin: 0 10px;" />
   </a>
 
   <br /><br />
 
-| Badge | Level / Multiplier | Requirement Satisfied | Status |
+| Badge | Distinction | Verification Metric | Status |
 | :---: | :---: | :--- | :---: |
-| 🧠 **Galaxy Brain** | **Bronze (x1)** | 2+ accepted answers to technical Q&A discussions | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
-| 🪂 **YOLO** | **Unlocked** | Pull request merged directly without review block | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
-| 🦈 **Pull Shark** | **Silver (x2)** | 16+ merged pull requests into default branches | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
-| ⚡ **Quickdraw** | **Unlocked** | Issue/PR closed within 5 minutes of opening | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
-| 👥 **Pair Extraordinaire** | **Bronze (x1)** | Merged co-authored commits via pull requests | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
-
-  <p>👉 <em>Inspect live verification badges on <a href="https://github.com/pxyushch?tab=achievements"><strong>github.com/pxyushch?tab=achievements</strong></a></em></p>
+| 🧠 **Galaxy Brain** | **Bronze (x1)** | 2+ accepted answers to technical Q&A discussions | `UNLOCKED` |
+| 🪂 **YOLO** | **Unlocked** | Merged pull request without blocking review requirements | `UNLOCKED` |
+| 🦈 **Pull Shark** | **Silver (x2)** | 16+ merged pull requests into default branches | `UNLOCKED` |
+| ⚡ **Quickdraw** | **Unlocked** | Issue/PR closed within 5 minutes of opening | `UNLOCKED` |
+| 👥 **Pair Extraordinaire** | **Bronze (x1)** | Merged co-authored commits via pull requests | `UNLOCKED` |
 </div>
 
 ---
 
-## 📈 GitHub Telemetry & Activity Stats
+## 📈 Activity Telemetry & Engineering Rank
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=pxyushch&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" width="100%" />
@@ -184,14 +163,22 @@ I engineer **reproducible evaluation harnesses, deterministic sandbox runners, a
 
 ---
 
-## 📬 Contact & Engagements
+## 📬 Open for Engagements
 
-- 💼 **Software Engineer @ Ethara.ai** | Available for DevOps & AI Evaluation contracts.
-- 🎯 **Target Domains:** Frontier Model Evaluations, Task Authoring, Red-Teaming & Benchmark Harness Architecture.
-- ✉️ **Direct Email:** **[peeyushrajput321@gmail.com](mailto:peeyushrajput321@gmail.com)**
-- 💼 **LinkedIn:** **[linkedin.com/in/piyush-chauhan-8a02a0251](https://linkedin.com/in/piyush-chauhan-8a02a0251)**
-- 🌐 **GitHub:** **[github.com/pxyushch](https://github.com/pxyushch)**
+```yaml
+role: "DevOps Engineer & AI Evaluation Specialist"
+current_company: "Ethara.ai"
+domains:
+  - "Frontier Model Benchmarking (Claude 3.5 Sonnet, Codex, GLM-4, DeepSeek)"
+  - "Deterministic Cloud Sandboxing & Ephemeral Test Containers"
+  - "Automated CI/CD Pipelines & Kubernetes Security Verification"
+contact:
+  email: "peeyushrajput321@gmail.com"
+  linkedin: "https://linkedin.com/in/piyush-chauhan-8a02a0251"
+  github: "https://github.com/pxyushch"
+status: "Available for high-impact AI Evaluation & DevOps opportunities"
+```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,14,22&height=50&section=footer" width="100%" />
 </div>
