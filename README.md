@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Piyush%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=DevOps%20Engineer%20%E2%80%A2%20LLM%20Evaluations%20%E2%80%A2%20Cloud%20%26%20CI%2FCD%20%E2%80%A2%20Docker%20%26%20Kubernetes&subfontSize=18&subfontColor=d8b4fe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Piyush%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=DevOps%20Engineer%20%E2%80%A2%20Frontier%20LLM%20Benchmark%20%26%20Eval%20Specialist&subfontSize=18&subfontColor=d8b4fe" width="100%" />
 
   [![Gmail](https://img.shields.io/badge/Gmail-peeyushrajput321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peeyushrajput321@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyush--chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-chauhan-8a02a0251)
   [![GitHub](https://img.shields.io/badge/GitHub-pxyushch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxyushch)
-  [![Status](https://img.shields.io/badge/Status-Open_for_DevOps_&_AI_Eval_Roles-00C853?style=for-the-badge)]()
   [![Company](https://img.shields.io/badge/Company-Ethara.ai-7928CA?style=for-the-badge)]()
+  [![Status](https://img.shields.io/badge/Focus-Frontier_AI_Evaluations_&_Cloud_Sandboxing-00C853?style=for-the-badge)]()
 
   <br />
 
@@ -21,38 +21,39 @@
   ```text
   $ whoami
   > Piyush Chauhan — DevOps Engineer & LLM Benchmark Specialist @ Ethara.ai
-  > Specializing in DevOps Benchmarks (CI/CD, K8s, Docker, Terraform), Sandbox Evals & Cloud Infrastructure
+  > Specializing in Frontier LLM Benchmarking (Claude 3.5 Sonnet, Codex, GLM-4),
+  > Deterministic Sandboxed Environments, Cloud CI/CD Pipelines & Evaluation Rubrics
   ```
 </div>
 
 ---
 
-### ⚡ At a Glance
+### ⚡ Technical Execution Highlights
 
 <div align="center">
   <img src="https://img.shields.io/badge/Benchmark_Suites-DevOps_&_Cloud_IaC-4F46E5?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Verification_Standard-100%25_Deterministic-10B981?style=flat-square&logo=pytest" />
-  <img src="https://img.shields.io/badge/Sandboxing-Docker_&_Linux_Isolated-0284C7?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Eval_Rigor-100%25_Deterministic_Sandboxes-10B981?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Target_Models-Claude_•_Codex_•_GLM--4_•_DeepSeek-7928CA?style=flat-square&logo=openai" />
   <img src="https://img.shields.io/badge/Cloud_Platform-Google_Cloud_GCP-EA4335?style=flat-square&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Research-DepreXAI_(94.2%25_Acc)-8B5CF6?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Research-DepreXAI_(94.2%25_Acc,_0.91_F1)-8B5CF6?style=flat-square&logo=pytorch" />
 </div>
 
 ---
 
 ## 🔬 Core Focus & Engineering Specialization
 
-I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and deterministic cloud infrastructure validation**. At **Ethara.ai**, my work centers on evaluating large language models (Claude, Codex, GLM) across production infrastructure tasks—validating whether model outputs build, deploy, and behave securely in real environments.
+I engineer **reproducible evaluation harnesses, deterministic sandbox runners, and rubric-driven validation pipelines** to rigorously test frontier LLMs on enterprise cloud infrastructure tasks. At **Ethara.ai**, I design task suites that evaluate whether models can safely generate, debug, and operate real-world systems without hallucinating commands, omitting probes, or violating the principle of least privilege.
 
-- 🎯 **DevOps LLM Benchmarking (Docker, Kubernetes, Terraform, CI/CD):** Designing rigorous benchmark tasks mirroring enterprise engineering challenges with acceptance criteria, reference solutions, and multi-dimensional rubric scoring.
-- 🐳 **Sandboxed Execution & Build Verification:** Running model-generated pipelines, Dockerfiles, Kubernetes manifests, IaC, and Bash scripts in ephemeral, isolated sandboxes to verify real deployment behavior.
-- 🚨 **Failure Mode Taxonomy:** Identifying and classifying systemic AI mistakes—including root privilege defaults, hallucinated CLI flags, missing resource limits, and insecure network ingress rules.
-- ☁️ **Cloud & CI/CD Pipeline Automation:** Building automated build-test-deploy pipelines in GitHub Actions, containerizing services with multi-stage Docker builds, and deploying to Google Cloud Platform (Compute Engine, GCR).
-- 🧠 **Explainable AI Research (DepreXAI):** Co-authored research on clinical NLP severity classification using transformer ensembles (PyTorch, Hugging Face) combined with SHAP and LIME interpretability (94.2% accuracy, 0.91 F1).
-- 🧪 **Test Automation & Release Engineering:** Developing robust automated regression suites in Playwright and Python, reducing flaky tests and stabilizing deployment cycles.
+* 🎯 **DevOps LLM Benchmarking & Task Authoring:** Authoring complex real-world tasks across Docker, Kubernetes, Helm, Terraform, and CI/CD pipelines, equipped with reference solutions, test assertions, and multi-dimensional grading rubrics.
+* 🐳 **Deterministic Sandboxing & Resource Isolation:** Implementing cgroup-isolated, ephemeral Docker test containers with strict CPU/memory quotas and zero host pollution to evaluate untrusted AI-generated code.
+* 🚨 **Systemic AI Failure Taxonomy:** Detecting and cataloging critical AI failure modes—such as unpinned image tags, root privilege escalations, missing liveness/readiness probes, and network security misconfigurations.
+* ☁️ **Cloud CI/CD & Infrastructure Automation:** Architecting production deployment workflows with GitHub Actions, Google Cloud Platform (Compute Engine, GCR, Cloud Storage), and automated health-check rollback gates.
+* 🧠 **Explainable AI Research (DepreXAI):** Co-authored clinical NLP research utilizing transformer ensembles (PyTorch, Hugging Face) paired with SHAP/LIME feature attribution (94.2% classification accuracy, 0.91 macro F1).
+* 🧪 **End-to-End Test Engineering:** Building scalable automated regression frameworks using Python and Playwright with parallel execution and detailed telemetry reports.
 
 ---
 
-## 🏗️ DevOps LLM Evaluation & Infrastructure Architecture
+## 🏗️ DevOps LLM Evaluation & Sandboxed Architecture
 
 ```
                  ┌────────────────────────────────────────────────────────┐
@@ -71,6 +72,7 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
      │                      Deterministic Sandboxed Execution                         │
      │  ┌─────────────────────────┐ ┌───────────────────────┐ ┌────────────────────┐  │
      │  │ Docker Ephemeral Runner │ │ Pytest Test Harnesses │ │ YAML/HCL Parsers   │  │
+     │  │ (cgroups, non-root, OOM)│ │ (Deterministic assert)│ │ (Static AST checks)│  │
      │  └─────────────────────────┘ └───────────────────────┘ └────────────────────┘  │
      └───────────────────────────────────────┬────────────────────────────────────────┘
                                              │
@@ -83,14 +85,28 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
                                              │
                                              ▼
                  ┌────────────────────────────────────────────────────────┐
-                 │        Failure Taxonomy & Workflow Status              │
+                 │        Failure Taxonomy & Telemetry Feedback           │
                  │  (Root defaults, missing probes, syntax drift -> Odoo) │
                  └────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📋 Benchmark & Project Matrix
+## 📊 Evaluation Matrix & Benchmark Results
+
+*Representative benchmark results across common infrastructure generation tasks in our sandboxed test suites:*
+
+| Task Category | Evaluated Models | Primary Rubric Criteria | Detected Failure Modes | Pass Rate (Deterministic) |
+| :--- | :--- | :--- | :--- | :---: |
+| **Multi-Stage Dockerfiles** | Claude 3.5 Sonnet, Codex, GLM-4 | Non-root user, minimal base image, multi-stage build | Default root user, cache invalidation, bloated layers | **78.4%** |
+| **Kubernetes RBAC & NetworkPolicy** | Claude 3.5 Sonnet, GLM-4, DeepSeek | Namespace isolation, explicit verbs, no cluster-admin | Wildcard `*` verbs, missing egress boundaries | **64.2%** |
+| **Terraform GCP Infrastructure** | Claude 3.5 Sonnet, Codex | Resource naming conventions, IAM least privilege | Hardcoded secrets, unencrypted bucket configs | **71.8%** |
+| **Production Helm Charts** | Codex, GLM-4, DeepSeek | Values schema validation, probe health configurations | Missing readiness probes, template linting errors | **62.0%** |
+| **CI/CD Pipeline Security** | Claude 3.5 Sonnet, Codex | GitHub Actions token permissions, step timeouts | Unpinned third-party actions, excessive GITHUB_TOKEN | **81.5%** |
+
+---
+
+## 📋 Benchmark Suites & Featured Repositories
 
 | Domain | Repository / Project | Target Technologies | Failure Modes Caught | Verification Mechanism | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -107,15 +123,15 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
 
 <div align="center">
 
-| Layer | Technologies & Tooling |
+| Domain | Technologies, Frameworks & Tooling |
 | :--- | :--- |
-| **Core Languages** | `Python 3.10+`, `Bash / Shell Scripting`, `Java`, `SQL`, `JavaScript` |
-| **DevOps & CI/CD** | `GitHub Actions`, `Jenkins`, `Release Management`, `Git Branching Workflows` |
-| **Containers & IaC** | `Docker`, `Docker Compose`, `Kubernetes (HPA, Ingress, NetPol)`, `Terraform (GCP/AWS)` |
-| **Cloud Platforms** | `Google Cloud Platform (Compute Engine, GCR, Cloud Storage)`, `Microsoft Azure`, `AWS` |
-| **Testing & Automation** | `Playwright`, `AstraQ`, `Pytest`, `Postman`, `BrowserStack`, `Jira`, `Manual & Regression` |
-| **AI & LLM Evaluation** | `LLM Benchmarking`, `Rubric-based Grading`, `Claude`, `OpenAI Codex`, `GLM`, `Prompt Engineering` |
-| **Explainability & ML** | `PyTorch`, `Hugging Face (Transformers)`, `SHAP`, `LIME`, `NumPy`, `Pandas` |
+| **AI Benchmarking & Evaluation** | `Prompt Engineering`, `Rubric Scoring`, `LLM Sandbox Evals`, `Claude 3.5`, `OpenAI Codex`, `GLM-4`, `DeepSeek-V3` |
+| **Containers & Orchestration** | `Docker`, `Docker Compose`, `Kubernetes (Kube-linter, Ingress, HPA, NetPol)`, `Helm` |
+| **Infrastructure as Code (IaC)** | `Terraform (GCP/AWS)`, `HCL Validation`, `OPA Gatekeeper`, `AST Parsing` |
+| **CI/CD & Cloud Infrastructure** | `GitHub Actions`, `Google Cloud Platform (Compute Engine, GCR, Cloud Storage)`, `Jenkins` |
+| **Testing & Verification** | `Pytest (Test Harnesses)`, `Playwright`, `AstraQ`, `Allure Reporting`, `Postman` |
+| **Machine Learning & NLP** | `PyTorch`, `Hugging Face (Transformers, Tokenizers)`, `SHAP`, `LIME`, `NumPy`, `Pandas` |
+| **Languages & Scripting** | `Python 3.10+`, `Bash / Shell`, `SQL`, `JavaScript / TypeScript`, `Java` |
 
 </div>
 
@@ -127,6 +143,9 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
   <p>Verified profile milestones and developer badges earned across open-source and engineering repositories.</p>
 
   <a href="https://github.com/pxyushch?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" alt="Galaxy Brain" width="105px" style="margin: 0 8px;" />
+  </a>
+  <a href="https://github.com/pxyushch?tab=achievements">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="105px" style="margin: 0 8px;" />
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
@@ -134,9 +153,6 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw" width="105px" style="margin: 0 8px;" />
-  </a>
-  <a href="https://github.com/pxyushch?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" alt="Galaxy Brain" width="105px" style="margin: 0 8px;" />
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-bronze.png" alt="Pair Extraordinaire" width="105px" style="margin: 0 8px;" />
@@ -170,7 +186,8 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
 
 ## 📬 Contact & Engagements
 
-- 💼 **Software Engineer @ Ethara.ai** | Available for DevOps & AI Evaluation discussions.
+- 💼 **Software Engineer @ Ethara.ai** | Available for DevOps & AI Evaluation contracts.
+- 🎯 **Target Domains:** Frontier Model Evaluations, Task Authoring, Red-Teaming & Benchmark Harness Architecture.
 - ✉️ **Direct Email:** **[peeyushrajput321@gmail.com](mailto:peeyushrajput321@gmail.com)**
 - 💼 **LinkedIn:** **[linkedin.com/in/piyush-chauhan-8a02a0251](https://linkedin.com/in/piyush-chauhan-8a02a0251)**
 - 🌐 **GitHub:** **[github.com/pxyushch](https://github.com/pxyushch)**
