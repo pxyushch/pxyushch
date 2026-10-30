@@ -10,6 +10,7 @@
   <br />
 
   <!-- 🏆 Verified Achievements Quick-Bar -->
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/Galaxy%20Brain-Bronze-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" /></a>
   <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/YOLO-Unlocked-EF4444?style=for-the-badge&logo=gitpullrequest&logoColor=white" alt="YOLO" /></a>
   <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/Pull%20Shark-Silver-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" /></a>
   <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-Unlocked-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Quickdraw" /></a>
@@ -135,6 +136,9 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw" width="105px" style="margin: 0 8px;" />
   </a>
   <a href="https://github.com/pxyushch?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" alt="Galaxy Brain" width="105px" style="margin: 0 8px;" />
+  </a>
+  <a href="https://github.com/pxyushch?tab=achievements">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-bronze.png" alt="Pair Extraordinaire" width="105px" style="margin: 0 8px;" />
   </a>
 
@@ -142,6 +146,7 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
 
 | Badge | Level / Multiplier | Requirement Satisfied | Status |
 | :---: | :---: | :--- | :---: |
+| 🧠 **Galaxy Brain** | **Bronze (x1)** | 2+ accepted answers to technical Q&A discussions | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
 | 🪂 **YOLO** | **Unlocked** | Pull request merged directly without review block | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
 | 🦈 **Pull Shark** | **Silver (x2)** | 16+ merged pull requests into default branches | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
 | ⚡ **Quickdraw** | **Unlocked** | Issue/PR closed within 5 minutes of opening | ![Earned](https://img.shields.io/badge/Status-UNLOCKED-success?style=flat-square&logo=github) |
