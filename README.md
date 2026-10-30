@@ -65,7 +65,7 @@
 
 ---
 
-## ⚡ Interactive Tech Stack & Capabilities
+## ⚡ Tech Stack & Capabilities
 
 <div align="center">
   <p><strong>Primary Languages & Systems Engineering</strong></p>
