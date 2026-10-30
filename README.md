@@ -155,6 +155,8 @@ I specialize in **DevOps engineering, frontier LLM benchmark evaluations, and de
 ## 📈 GitHub Telemetry & Activity Stats
 
 <div align="center">
+  <img src="https://github-trophies.vercel.app/?username=pxyushch&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" width="95%" />
+  <br /><br />
   <img src="https://streak-stats.demolab.com/?user=pxyushch&theme=tokyonight&hide_border=true" alt="Piyush's GitHub Streak" width="95%" />
   <br /><br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pxyushch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Piyush's GitHub Stats" width="48%" />
