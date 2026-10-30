@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Premium Cyber Neon Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f46e5,35:06b6d4,70:3b82f6,100:8b5cf6&height=220&section=header&text=PIYUSH%20CHAUHAN&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=DevOps%20Engineer%20%E2%80%A2%20Frontier%20LLM%20Evaluation%20Specialist%20%40%20Ethara.ai&descFontSize=18&descAlignY=66&descColor=f0f9ff&animation=fadeIn" width="100%" />
+  <!-- Dynamic Animated Cyber Waving Fluid Canvas (Real SVG Wave Morph & Twinkle Animation) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=225&section=header&text=PIYUSH%20CHAUHAN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Frontier%20LLM%20Evaluation%20Specialist%20%40%20Ethara.ai&descFontSize=18&descAlignY=62&descColor=f0f9ff&animation=twinkling" width="100%" alt="Animated Waving Fluid Header" />
 
   <br />
 
