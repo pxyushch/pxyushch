@@ -1,29 +1,44 @@
 <div align="center">
-  <!-- Dynamic Top Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,14,22&height=180&section=header&text=PIYUSH%20CHAUHAN&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=DevOps%20Engineer%20%7C%20Frontier%20LLM%20Evaluation%20Specialist%20%40%20Ethara.ai&descFontSize=18&descAlignY=68&descColor=e0e7ff" width="100%" />
-
-  <!-- Animated Live Terminal Typing SVG -->
-  <a href="https://github.com/pxyushch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%E2%9A%A1+Architecting+Deterministic+Sandboxes+for+Claude+3.5+%26+Codex;%F0%9F%90%B3+Building+Hardened+Docker+%26+Kubernetes+Eval+Harnesses;%F0%9F%A7%A0+Clinical+NLP+AI+Researcher+(DepreXAI+%E2%80%A2+94.2%25+Acc);%F0%9F%9B%A1%EF%B8%8F+Enforcing+Zero-Trust+RBAC+%26+Automated+CI%2FCD+Pipelines" alt="Typing Terminal" />
-  </a>
+  <!-- Premium Cyber Neon Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f46e5,35:06b6d4,70:3b82f6,100:8b5cf6&height=220&section=header&text=PIYUSH%20CHAUHAN&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=DevOps%20Engineer%20%E2%80%A2%20Frontier%20LLM%20Evaluation%20Specialist%20%40%20Ethara.ai&descFontSize=18&descAlignY=66&descColor=f0f9ff&animation=fadeIn" width="100%" />
 
   <br />
 
-  <!-- Interactive Contact Badges -->
-  <a href="mailto:peeyushrajput321@gmail.com"><img src="https://img.shields.io/badge/Email-peeyushrajput321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/piyush-chauhan-8a02a0251"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/pxyushch"><img src="https://img.shields.io/badge/GitHub-pxyushch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Affiliation-Ethara.ai-7928CA?style=for-the-badge" alt="Ethara.ai" />
-  <img src="https://img.shields.io/badge/Focus-Frontier_AI_Evaluations-00C853?style=for-the-badge" alt="Focus" />
+  <!-- Terminal Animated Matrix Typing Ribbon with Styled Dark Container -->
+  <a href="https://github.com/pxyushch">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&background=0D1117&border=1E293B&center=true&vCenter=true&width=820&height=52&lines=%E2%9A%A1+Architecting+Deterministic+Sandboxes+for+Claude+3.5+%26+Codex;%F0%9F%90%B3+Building+Hardened+Docker+%26+Kubernetes+Eval+Harnesses;%F0%9F%A7%A0+Clinical+NLP+AI+Researcher+(DepreXAI+%E2%80%A2+94.2%25+Acc);%F0%9F%9B%A1%EF%B8%8F+Enforcing+Zero-Trust+RBAC+%26+Automated+CI%2FCD+Pipelines" alt="Typing Terminal" />
+  </a>
 
   <br /><br />
 
-  <!-- 🏆 Verified Achievements Ribbon -->
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Bronze-8B5CF6?style=flat-square" alt="Galaxy Brain" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🪂_YOLO-Unlocked-EF4444?style=flat-square" alt="YOLO" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🦈_Pull_Shark-Silver_x2-10B981?style=flat-square" alt="Pull Shark" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-F59E0B?style=flat-square" alt="Quickdraw" /></a>
-  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/👥_Pair_Extraordinaire-Bronze-06B6D4?style=flat-square" alt="Pair Extraordinaire" /></a>
+  <!-- Symmetrical Neon Glass Badges (Row 1: Social & Contact) -->
+  <a href="mailto:peeyushrajput321@gmail.com"><img src="https://img.shields.io/badge/Email-peeyushrajput321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/piyush-chauhan-8a02a0251"><img src="https://img.shields.io/badge/LinkedIn-Piyush_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/pxyushch"><img src="https://img.shields.io/badge/GitHub-pxyushch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+  <br />
+
+  <!-- Symmetrical Neon Glass Badges (Row 2: Professional Creds & Focus) -->
+  <img src="https://img.shields.io/badge/Company-Ethara.ai-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Ethara.ai" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Frontier_LLM_Evaluations-06B6D4?style=for-the-badge&logo=docker&logoColor=white" alt="Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_for_Select_Contracts-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+
+  <br /><br />
+
+  <!-- 🏆 Verified Official GitHub Achievements Badge Showcase -->
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Bronze-8B5CF6?style=for-the-badge" alt="Galaxy Brain" /></a>
+  &nbsp;
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🪂_YOLO-Unlocked-EF4444?style=for-the-badge" alt="YOLO" /></a>
+  &nbsp;
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/🦈_Pull_Shark-Silver_x2-10B981?style=for-the-badge" alt="Pull Shark" /></a>
+  &nbsp;
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-F59E0B?style=for-the-badge" alt="Quickdraw" /></a>
+  &nbsp;
+  <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/👥_Pair_Extraordinaire-Bronze-06B6D4?style=for-the-badge" alt="Pair Extraordinaire" /></a>
 </div>
 
 ---
