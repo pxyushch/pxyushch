@@ -39,6 +39,13 @@
   <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-F59E0B?style=for-the-badge" alt="Quickdraw" /></a>
   &nbsp;
   <a href="https://github.com/pxyushch?tab=achievements"><img src="https://img.shields.io/badge/👥_Pair_Extraordinaire-Bronze-06B6D4?style=for-the-badge" alt="Pair Extraordinaire" /></a>
+
+  <br /><br />
+
+  <!-- 🎖️ Holopin Badge Board -->
+  <a href="https://holopin.io/@pxyushch">
+    <img src="https://holopin.me/pxyushch" alt="@pxyushch's Holopin Badge Board" width="100%" />
+  </a>
 </div>
 
 ---
@@ -172,7 +179,7 @@ At **Ethara.ai**, I design deterministic evaluation harnesses to rigorously test
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=pxyushch&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" width="100%" />
   <br /><br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pxyushch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" alt="Piyush's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pxyushch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Piyush's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pxyushch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
